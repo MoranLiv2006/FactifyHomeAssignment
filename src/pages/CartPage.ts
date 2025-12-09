@@ -9,7 +9,7 @@ export default class CartPage extends BasePage {
     private cartTotal: Locator;
     private shippingOption: Locator;
     private proceedToCheckoutButton: Locator;
-    public productsTable: Locator;
+    private productsTable: Locator;
 
     constructor(page: Page) {
         super(page);
