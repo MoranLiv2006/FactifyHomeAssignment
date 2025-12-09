@@ -1,0 +1,9 @@
+export enum CartTableColumns {
+    PRODUCT_REMOVE = 0,
+    PRODUCT_THUMBNAIL = 1,
+    PRODUCT_NAME = 2,
+    PRODUCT_PRICE = 3,
+    PRODUCT_QUANTITY = 4,
+    PRODUCT_SUBTOTAL = 5,
+
+}
